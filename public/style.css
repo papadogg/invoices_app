@@ -1,0 +1,33 @@
+body {   
+    padding:62px 0 0 0;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus{
+    background-color: #efefef;
+}
+
+h1 {
+    display: inline-block;   
+}
+
+.myBtn{
+   margin-left: 20px;
+}
+
+table{
+    margin-top: 20px;
+}
+
+#deleteModal .modal-content{
+    margin-top: 200px;
+}
+ 
+td{
+    cursor: pointer;
+}
+
+.control-label{
+    margin-top: 20px;
+}
